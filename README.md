@@ -1,5 +1,5 @@
 <h1>Hello 👋, I'm Andrian Raihannudin</h1>
-<h3>Freelance | Fullstack Developer & System Architect</h3>
+<h3>Fullstack Developer & System Architect</h3>
 
 <h2>About Me</h2>
 <p>
