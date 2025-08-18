@@ -1,6 +1,3 @@
-<!-- For banner -->
-![Banner](https://user-images.githubusercontent.com/108221736/228186373-063ac4f5-af1a-4b86-b7fe-df4051f2de18.png)
-
 <!-- For main text -->
 - 👀 I’m interested in ***Unreal*** (Game Dev stuffs), ***AI*** (LLMs, RL, etc.), and ***Blockchain*** (Web3 techs) Development.  
 - 🌱 I’m currently learning Computer Science major <br>
