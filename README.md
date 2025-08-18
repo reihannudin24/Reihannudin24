@@ -11,17 +11,17 @@ Thanks for reading, I hope you all readers have a good day!
 
   <!-- For Platane/snk Snake Contribution -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matthew-Eucaristo/Matthew-Eucaristo/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matthew-Eucaristo/Matthew-Eucaristo/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Matthew-Eucaristo/Matthew-Eucaristo/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Reihannudin24/Reihannudin24/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Reihannudin24/Reihannudin24/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Reihannudin24/Reihannudin24/output/github-contribution-grid-snake.svg" />
 </picture>
 
 
 <div style="display:flex; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matthew-Eucaristo&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-Eucaristo&show_icons=true&theme=radical" alt="Top Langs">
-  <img src="https://github-profile-trophy.vercel.app/?username=Matthew-Eucaristo&theme=radical" alt="trophy">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matthew-Eucaristo&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=Reihannudin24&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reihannudin24&show_icons=true&theme=radical" alt="Top Langs">
+  <img src="https://github-profile-trophy.vercel.app/?username=Reihannudin24&theme=radical" alt="trophy">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reihannudin24&theme=radical" alt="GitHub Streak">
 </div>
 
 
