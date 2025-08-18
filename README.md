@@ -7,7 +7,7 @@
 Thanks for reading, I hope you all readers have a good day!
 
 <!-- For GitHub statistics -->
-<img src="https://komarev.com/ghpvc/?username=Matthew-Eucaristo&color=orange" alt="GitHub Visitor Count">
+<img src="https://komarev.com/ghpvc/?username=Reihannudin24&color=orange" alt="GitHub Visitor Count">
 
   <!-- For Platane/snk Snake Contribution -->
 <picture>
