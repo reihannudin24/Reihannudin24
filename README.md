@@ -16,15 +16,12 @@ Thanks for reading, I hope you all readers have a good day!
   <img alt="github-snake" src="https://raw.githubusercontent.com/Reihannudin24/Reihannudin24/output/github-contribution-grid-snake.svg" />
 </picture>
 
-
 <div style="display:flex; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Reihannudin24&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Reihannudin24&show_icons=true&theme=radical" alt="GitHub stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reihannudin24&show_icons=true&theme=radical" alt="Top Langs">
   <img src="https://github-profile-trophy.vercel.app/?username=Reihannudin24&theme=radical" alt="trophy">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reihannudin24&theme=radical" alt="GitHub Streak">
 </div>
-
-
 
 <!-- For Jokes -->
 <h2>Need some jokes to cherish your programming workflow?</h2>
@@ -35,7 +32,6 @@ Thanks for reading, I hope you all readers have a good day!
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!---
-Matthew-Eucaristo/Matthew-Eucaristo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Reihannudin24/Reihannudin24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
